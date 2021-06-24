@@ -2,4 +2,4 @@ Ceci est un test
 
 Je rajoute une ligne pour un deuxième commit
 
-MK t'ap pourri ton fichier !
+Je corrige le fichier que MK avait pourri
