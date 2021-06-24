@@ -1,3 +1,7 @@
 Test depuis main
 
+<<<<<<< HEAD
 Je fais un test depuis fork6
+=======
+Je tente depuis fork7
+>>>>>>> fork7
