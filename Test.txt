@@ -3,3 +3,6 @@ Ceci est un test
 Je rajoute une ligne pour un deuxième commit
 
 Je corrige le fichier que MK avait pourri
+
+
+Je teste commit sans -m
