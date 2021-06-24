@@ -6,3 +6,5 @@ Je corrige le fichier que MK avait pourri
 
 
 Je teste commit sans -m
+
+Test de git diff
